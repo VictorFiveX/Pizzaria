@@ -1,0 +1,15 @@
+.nav {
+    height: 3.1rem;
+    display: flex;
+    flex-wrap: nowrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    flex-direction: row;
+    background-color: #2b292a;
+    overflow-y: auto;
+    font-size: 1.3rem;
+}
+.nav-item{
+    background-color: #2E2C2D;
+}
